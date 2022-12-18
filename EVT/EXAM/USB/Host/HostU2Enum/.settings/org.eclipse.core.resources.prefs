@@ -1,2 +1,4 @@
 eclipse.preferences.version=1
+encoding//StdPeriphDriver/CH58x_usb2hostBase.c=GBK
+encoding//StdPeriphDriver/CH58x_usb2hostClass.c=GBK
 encoding//src/Main.c=UTF-8
